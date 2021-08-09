@@ -12,4 +12,8 @@ Stack Overflow happens to parse the same markdown syntax for questions and answe
 
 <h1> Hello World! </h1>
 
+## SUB HEADING
+
+An ordinary text under sub headings
+
 
