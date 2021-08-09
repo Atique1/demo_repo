@@ -1,6 +1,6 @@
 # Demo File
 
-Some text! Made some correction.</>
+Some text! Made some correction.</br>
 Adding a line.
 Anoter line.
 One more line.
